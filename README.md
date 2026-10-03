@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ Fri Oct 02 2026 09:04:48 GMT+0000 (Coordinated Universal Time) -->
+<!-- built by gitlab-ci @ 2026-10-03T04:59:11.916Z -->
 ### Ciao! Mi chiamo Alex.&nbsp;&nbsp;👋
 
 I'm Alex, aka birkhoff on the Internet. I'm a software designer who's been building software for over 10 years, including ones that millions of people use daily. I also build secure and repeatable hybrid cloud infrastructure.
@@ -33,9 +33,9 @@ Led the operations team to maintain HA of over 20 servers and over 100 container
 ### Blog Posts
 In the overview below you will find the featured posts of my [blog](https://birkhoff.me/):
 
-- [Policy routing with Clash](https://birkhoff.me/articles/policy-routing-with-clash) (2022-08-26)
-- [Extending size of a EBS mounted on an active EC2 Instance](https://birkhoff.me/articles/extending-size-of-an-active-ebs-storage-attached-to-an-instance) (2022-01-05)
-- [Finding out a problem of gpg-agent](https://birkhoff.me/articles/finding-out-a-problem-of-gpg-agent) (2022-01-05)
+- [Policy routing with Clash](https://birkhoff.me/posts/policy-routing-with-clash/) (2022-08-26)
+- [Extending size of a EBS mounted on an active EC2 Instance](https://birkhoff.me/posts/extending-size-of-an-active-ebs-storage-attached-to-an-instance/) (2022-01-05)
+- [Finding out a problem of gpg-agent](https://birkhoff.me/posts/finding-out-a-problem-of-gpg-agent/) (2022-01-05)
 
 ### Credits
 I would like to thank everyone who has supported me in my career. If you would like to get in touch, the best tway to reach out would be via [email](mailto:hello@birkhoff.me) or [Twitter](https://twitter.com/birkhofflee).
