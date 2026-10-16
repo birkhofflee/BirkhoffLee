@@ -1,4 +1,4 @@
-<!-- built by gitlab-ci @ 2026-10-09T09:06:06.148Z -->
+<!-- built by gitlab-ci @ 2026-10-16T09:05:18.846Z -->
 ### Hey, I'm Alex.&nbsp;&nbsp;👋
 
 I'm Alex, aka birkhoff on the Internet. I'm a Senior Software Engineer and researcher at Politecnico di Milano in Deep Learning and Computer Vision.
